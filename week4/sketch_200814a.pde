@@ -1,0 +1,31 @@
+//sketch 14th aug 2020
+PImage photo;
+int smallPoint, largePoint, x, y, dotSize, t;
+color pix;
+float pointillise;
+
+void setup(){
+  smallPoint=4;
+  largePoint=40;
+  size(730,730);
+  background (120);
+  imageMode(CENTER);
+  photo = loadImage("teddybears.jpg");
+}
+
+void draw(){
+//image (photo,240,240);
+//color pix=photo.get(mouseX,mouseY);
+x=int(random(photo.width)); // finds random() point across the sketch
+y=int(random(photo.height));
+pointillise =map(mouseX, 0, photo.width, smallPoint, largePoint); // map (input, lowwest value, highest value
+dotSize=int(pointillise);
+pix=photo.get(x,y); // this gets the color value from where my mouse
+t=int(random(256));
+strokeWeight(3);
+//stroke (pix,t); // this updates the color of the fill() to the pixel values
+fill (pix,t); // this updates the colour
+noStroke(); // this removes the outline of the circle
+ellipse(x,y,dotSize,dotSize); // this draws the circle
+//line(x,y,x+dotSize,y+dotSize); // this draws the line
+}
