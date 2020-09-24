@@ -29,29 +29,4 @@ Used image (Below)
 
 Used Code from the website by Marcelo Pascual
 
-<?php
-
-$image = '119885587_624730951769409_7588470395021440458_n.jpg';
-
-$colorArray = array();
-
-$im = imagecreatefromjpeg($image);
-$width = imagesx($im);
-$height = imagesy($im);
-
-for($i=0;$i<$height;$i++) {
-
-    for($j=0;$j<$width;$j++) {
-
-        $color = imagecolorat($im, $j, $i);
-        $color = imagecolorsforindex($im, $color);
-
-        $colorArray[] = array('width' => $j, 'height' => $i, 'red' => $color['red'], 'green' => $color['green'], 'blue' => $color['blue'], 'alpha' => $color['alpha']);
-
-    }
-
-}
-
-print_r( $colorArray );
-
-?>
+![Capture](https://user-images.githubusercontent.com/68723268/94150681-ccb5e180-febc-11ea-94b5-6ad3a408fd6c.JPG)
