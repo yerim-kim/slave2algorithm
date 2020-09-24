@@ -1,6 +1,6 @@
 # WEEK7
 
-## Quick presentations, Paper prototyping and Pseudo Code
+## Quick presentation, Paper prototyping and Pseudo Code
 
 ## Paper Prototype 1
 
