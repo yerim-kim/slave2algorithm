@@ -2,7 +2,7 @@
 
 ## Quick presentation/Paper prototyping/Pseudo Code
 
-## Paper Prototype 1
+### Paper Prototype 1
 
 At first I was going to use the corona spreading in Melbourne data to create a music but then I realised it's too negative and give an idea of 'death' to the audience. I liked this idea though because this is something continuous so the music will only end when the corona is completely gone in Melbourne. Also very generative as well since the data can't be foreseen but only to be estimated. So we won't know what kind of sound it will produce.
 
