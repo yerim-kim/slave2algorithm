@@ -23,6 +23,7 @@ https://stackoverflow.com/questions/16994797/convert-image-in-to-numbers
 It came up with numbers when I applied an image but it also had indications which array and which colours it was. Also another problem was I can only convert very small files.
 
 Used image (Below)
+
 ![119885587_624730951769409_7588470395021440458_n](https://user-images.githubusercontent.com/68723268/94150168-28cc3600-febc-11ea-9052-0ba92aa87f43.jpg)
 
 
