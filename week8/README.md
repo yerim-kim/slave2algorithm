@@ -46,8 +46,11 @@ So I decide to talk to Karen when I couldn't figure this out on my own. But I go
 ## Theoritically thinking of the process of converting an image to numbers
 
 Because there is only 88 notes on the piano but there can be also 144 on music box.
-And we need to think that each pixel contain RGB 0 - 255 I and there is a lot of pixel in an one image.
+And we need to think that each pixel contain RGB 0 - 255 and there is a lot of pixel in an one image.
 So we need to pixelate and degrade the image quality in order to get the right amount of numbers we want from the image.
 
 
 ![Captuzzze](https://user-images.githubusercontent.com/68723268/94152072-83ff2800-febe-11ea-8bb7-5fcd3db4b06e.JPG)
+
+
+And extract variable that best suit to music notes. Still figuring out which method I need to use...
