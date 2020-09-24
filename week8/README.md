@@ -34,3 +34,7 @@ Used Code from the website by Marcelo Pascual (Below)
 ## Outcome
 
 ![ss](https://user-images.githubusercontent.com/68723268/94150888-0dadf600-febd-11ea-8815-01fd95189c34.JPG)
+
+So I decide to talk to Karen when I couldn't figure this out on my own. But I got a reply that there is a easier way to extract numbers from image in Processing. I was like what was I doing the whole time hahaha.
+
+## Theoritically thinking of the process
