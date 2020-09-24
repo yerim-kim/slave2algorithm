@@ -15,7 +15,13 @@ My plan changed a little bit more from the last paper protype. I thought I was l
 
 Like any reality I faced the wall as soon as I started to research how to convert an image to numbers. When I searched 'How to convert an image to number' on Google only came up with things that I won't understand.
 
-#### Test 1 (PHP)
+I also researched how to turn numbers to music. I got an idea from this website.
+
+https://www.learnchordal.com/turning-numbers-into-music
+
+http://musicalgorithms.org/4.1/app/#/home
+
+#### Test /  Image to Number (PHP)
 
 https://stackoverflow.com/questions/16994797/convert-image-in-to-numbers
 
@@ -37,4 +43,11 @@ Used Code from the website by Marcelo Pascual (Below)
 
 So I decide to talk to Karen when I couldn't figure this out on my own. But I got a reply that there is a easier way to extract numbers from image in Processing. I was like what was I doing the whole time hahaha.
 
-## Theoritically thinking of the process
+## Theoritically thinking of the process of converting an image to numbers
+
+Because there is only 88 notes on the piano but there can be also 144 on music box.
+And we need to think that each pixel contain RGB 0 - 255 I and there is a lot of pixel in an one image.
+So we need to pixelate and degrade the image quality in order to get the right amount of numbers we want from the image.
+
+
+![Captuzzze](https://user-images.githubusercontent.com/68723268/94152072-83ff2800-febe-11ea-8bb7-5fcd3db4b06e.JPG)
