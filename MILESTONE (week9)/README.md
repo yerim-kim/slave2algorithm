@@ -18,6 +18,8 @@ I copied all the necessary numbers into Notepad app and manually tidy them up so
 225,88,31,191,171,150,145,21,255,229,240,244,195,127,117,144,25,255,217,222,199,178,119,150,138,59,255,218,255,146,165,127,171,174,51,255,222,234,241,162,135,163,190,21,255,224,254,196,185,122,149,136,23,255,226,217,218,186,186,128,147,173,255,229,226,230,185,155,134,127,87,255,223,201,255,196,254,232,217,85,255,189,102,210,195,185,236,244,92
 
 ##
+Then utilising 'Musical Algorithms' website (http://musicalgorithms.org/4.1/app/) I convert those numbers to 88 notes in a piano.
+##
 
 ![1](https://user-images.githubusercontent.com/68723268/94732100-24ff4e80-03a9-11eb-9330-10e3263d0e5a.JPG)
 
