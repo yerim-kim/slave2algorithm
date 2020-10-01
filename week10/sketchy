@@ -1,0 +1,112 @@
+// Yerim's Slave to the Algorithm Project(Remember U)
+
+
+//Reference
+//menu page by Magic Monk from YouTube (https://www.youtube.com/watch?v=TgHhEzKlLb4)
+//Uploading media file Tutorial by The Coding Train from YouTube (https://www.youtube.com/watch?v=rO6M5hj0V-o)
+
+
+
+
+var mode;
+
+let button, logo, input, bground, img;
+
+
+function preload() {
+  
+  //logo
+  logo = loadImage('logo.png');
+}
+
+
+
+
+function setup() {
+  mode = 0; //the main page
+  createCanvas(windowWidth, windowHeight);
+  bgcolour = color(26,24,89);
+  
+  
+  //Image Uploader
+  input = createFileInput(handleFile);
+  input.position(530,100);
+  
+  
+  //start button
+  //button = createButton('START');
+  //button.position(30, 600);
+  //button.size(100,50);
+  //button.mousePressed();
+}
+
+function draw() {
+  background(bgcolour);
+  
+  
+  // Main Page
+  if (mode==0) {
+    
+    //box
+    fill(142,121,216);
+    rect(587,616,120,50);
+    
+    
+    //TEXTS
+    fill(255);
+    textSize(21);
+    textFont('Courier New');
+    maintext1 = text('"Imagine making your precious memories into a music"', 320,450);
+    
+    textSize(16);
+    maintext2 = text('CLICK -start- TO HEAR YOUR MEMORIES',480,580);
+    
+    textFont('Berlin Sans FB');
+    textSize(30);
+    maintext3 = text('Remember U', 560,350);
+    maintext4 = text('START',605,650);
+    
+    //logo
+    Logo = image(logo,530,70,233,248.5);
+    
+    //For Uploading Page
+    input.hide()
+    
+  }
+  
+   //Uploading Page
+  if (mode == 1) {
+    
+    rect.hide();
+    
+    maintext1 = clear();
+    maintext2 = clear();
+    maintext3 = clear();
+    maintext4 = clear();
+    
+    Logo = image.hide();
+    
+    //For Uploading Page
+    input.show()
+    
+    background(bgcolour);
+    
+    
+  }
+    
+  if (img) {
+    image(img,0,0,200,200);
+  }
+    
+    
+}
+
+function handleFile(file) {
+  print(file);
+  if (file.type ==='image') {
+    img = createImg(file.data,'');
+    img.hide();
+  } else {
+    img = null;
+  }
+}
