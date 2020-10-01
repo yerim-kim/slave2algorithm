@@ -28,9 +28,16 @@ Then utilising 'Musical Algorithms' website (http://musicalgorithms.org/4.1/app/
 ![3](https://user-images.githubusercontent.com/68723268/94732177-42341d00-03a9-11eb-8b8b-73e333e4ab74.JPG)
 
 ![4](https://user-images.githubusercontent.com/68723268/94732197-4a8c5800-03a9-11eb-9ad1-015bbc34e17f.JPG)
+##
+I had a successful outcome of making piano sounds out of an image.
+##
 
 ![image](https://user-images.githubusercontent.com/68723268/94731270-d9987080-03a7-11eb-859a-b4c3a57eeca6.png)
 
 ##
+I created a mood board and a concept board for my website if I get to make one. I wanted to utilise calm blue colours and include playful elements such as line doodles to lighten up the mood of the website.
+##
 
 ![image](https://user-images.githubusercontent.com/68723268/94732653-e4540500-03a9-11eb-9812-4867975f0ad6.png)
+##
+My next step is to make this process of image to music a lot smoother using p5.js.
