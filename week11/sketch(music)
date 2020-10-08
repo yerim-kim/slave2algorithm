@@ -1,0 +1,38 @@
+
+let synth, soundLoop;
+ let notePattern = [50,2,33,16,83,64,58,22,81,55,67,69,21,40,31,57,26,81,43,47,23,4,33,64,52,59,81,43,81,59,79,40,83,88,52,81,47,59,67,76,47,76,16,22,81,50,79,21,10,35,62,50,23,81,52,43,43,11,11,43,59,86,81,55,52,55,10,69,47,40,88,81,47,26,81,21,79,57,43,86,81,14,16,35,21,10,62,69,7];
+
+ function setup() {
+   let cnv = createCanvas(100, 100);
+   cnv.mousePressed(canvasPressed);
+   colorMode(HSB);
+   background(0, 0, 86);
+   text('tap to start/stop', 10, 20);
+
+   //the looper's callback is passed the timeFromNow
+   //this value should be used as a reference point from
+   //which to schedule sounds
+   let intervalInSeconds = 0.2;
+   soundLoop = new p5.SoundLoop(onSoundLoop, intervalInSeconds);
+
+   synth = new p5.MonoSynth();
+}
+
+function canvasPressed() {
+  // ensure audio is enabled
+  userStartAudio();
+
+  if (soundLoop.isPlaying) {
+    soundLoop.stop();
+  } else {
+    // start the loop
+    soundLoop.start();
+  }
+}
+
+function onSoundLoop(timeFromNow) {
+  let noteIndex = (soundLoop.iterations - 1) % notePattern.length;
+  let note = midiToFreq(notePattern[noteIndex]);
+  synth.play(note, 0.5, timeFromNow);
+  background(noteIndex * 360 / notePattern.length, 50, 100);
+}
