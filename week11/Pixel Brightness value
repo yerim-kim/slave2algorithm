@@ -1,0 +1,45 @@
+//code created by LaVielle [https://xbuba.com/questions/47888710]
+
+var img;
+var brightnesss;
+var inc;
+var gotBright = false;
+
+function preload(){
+   img = loadImage('donut.JPG');
+}
+
+function setup(){
+   createCanvas(500, 500);
+   background(0);
+
+}
+
+function draw(){
+
+   img.resize(10, 10);
+   image(img, 0, 0, img.width, img.height);
+
+   brightness = 0;
+   inc = 0;
+
+   if (gotBright == false) {
+
+      img.loadPixels();
+      loadPixels();
+      for (var i = 0; i < img.width; i++) {
+         for (var j = 0; j < img.height; j++) {
+            var index = (i + j * img.width) * 4;
+            var r = img.pixels[index + 0];
+            var g = img.pixels[index + 1];
+            var b = img.pixels[index + 2];
+
+            brightness += (r + g + b) / 3;
+            inc ++;
+            console.log(inc, r , g, b);
+         }
+      }
+      gotBright = true;
+      brightness = brightnesss/inc;
+   }
+}
