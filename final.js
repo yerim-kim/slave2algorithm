@@ -5,7 +5,6 @@
 //[REFERENCE]
 //I WILL WRITE THIS SOONNNN.....
 
-
 var mode, pix, bright;
 let pixSize = 70;
 let logo,input, bground, img, pg, pgbdround;
@@ -20,12 +19,9 @@ let notePattern = [50,2,33,16,83,64,58,22,81,55,67,69,21,40,31,57,26,81,43,47,23
 
 
 
-function preload() {
-  
+function preload() { 
   logo = loadImage('logo.png');
 }
-
-
 
 function setup() {
   mode = 0;
@@ -49,7 +45,6 @@ function setup() {
   
 
 }
-
 
 function draw() {
  
@@ -121,12 +116,16 @@ function draw() {
         for (var x = 0; x < img.width; x+=pixSize){
    for (var y = 0; y < img.height; y+=pixSize){
      pix = get(x,y);
+     console.log('pix: '+pix);
      bright = brightness(pix);
-    console.log(bright);
+    console.log('bright: ' + bright);
     fill(pix);
-    noStroke();
+     strokeWeight(1);
+    stroke(pix);
     //ellipse(i,j,int(leaps*(bright)/255),int(leaps*(bright)/255));
     rect(x+1,y+1,pixSize-1,pixSize-1);
+    notePattern=[];
+    notePattern.push(int(pix));
     }
    }
   }
@@ -139,7 +138,7 @@ function handleFile(file) {
   print(file);
   if (file.type ==='image') {
     img = createImg(file.data,'');
-    image(img, 0,0, img.width, image.height);
+    image(img, 0,0, img.width, img.height);
 
     img.hide();
   } else {
@@ -149,7 +148,9 @@ function handleFile(file) {
 
 
 function mousePressed() {
-  if (mouseIsPressed==true) {
+  if (mode = 1){
+    pgPressed();}
+  else if (mouseIsPressed==true) {
     mode = 1;
   }
 }
