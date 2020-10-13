@@ -3,25 +3,31 @@
 //[REMEMBER U] - IMAGE SONIFICATION
 
 //[REFERENCE]
-//I WILL WRITE THIS SOONNNN.....
+// "Shifting shapes and changing colors" by pbay [https://editor.p5js.org/pbay/sketches/ryMUDIVZN]
+// "p5. SoundLoop" from p5.js Reference page [https://p5js.org/reference/#/p5.SoundLoop]
+// "p5.js How to displat text menu before game starts" by Magic Monk [https://www.youtube.com/watch?v=TgHhEzKlLb4]
+// "Pixelate with processing" by Rodrigo Trevino Saenz [https://byrodrigo.wordpress.com/2010/09/24/pixelate-with-processing/]
+// "p5.js Pixelation and pixelated image into sound" help from Karen
 
-var mode, pix, bright;
+
+var mode, pix, bright,button;
+var backgroundColor, isOverRectangle;
+
 let pixSize = 70;
-let logo,input, bground, img, pg, pgbdround;
+let logo,input, bground, img;
 
 //MUSIC LOOP PLAYER
 let synth, soundLoop;
 let intervalInSeconds = 0.2;
 
-//I USED MUSIC NOTES FROM DONUT IMAGE
-//HOPE I CAN GET NOTE DATA FROM UPLOADED IMAGES INSTEAD
-let notePattern = [50,2,33,16,83,64,58,22,81,55,67,69,21,40,31,57,26,81,43,47,23,4,33,64,52,59,81,43,81,59,79,40,83,88,52,81,47,59,67,76,47,76,16,22,81,50,79,21,10,35,62,50,23,81,52,43,43,11,11,43,59,86,81,55,52,55,10,69,47,40,88,81,47,26,81,21,79,57,43,86,81,14,16,35,21,10,62,69,7];
 
 
-
-function preload() { 
+function preload() {
+  
   logo = loadImage('logo.png');
 }
+
+
 
 function setup() {
   mode = 0;
@@ -32,28 +38,46 @@ function setup() {
   input.position(100,150);
   
   //SEPARATE CANVAS FOR sound PLAYER
-  pg = createGraphics(100,100);
-  pg.mousePressed(pgPressed);
-  pgbdround = color (26, 24, 89);
-  //colorMode(HSB);
+  button = createButton('PLAY');
+  button.position(100,200);
+  button.size(60,30);
+  button.mousePressed(togglePlaying);
   
   //Sound player 
-  
   soundLoop = new p5.SoundLoop(onSoundLoop, intervalInSeconds);
   
   synth = new p5.MonoSynth();
   
-
 }
+
 
 function draw() {
  
   background(bgcolour);
+  
+  //FOR RECTANGLE BUTTON
+  if (mouseX >= 587 && mouseX <= 587+120 && mouseY >= 616 && mouseY <= 616+50) {
+    isOverRectangle = true;
+  } else {
+    isOverRectangle = false;
+  }
 
   
+  // "REMEMBER U" MAIN PAGE
   if (mode==0) {
-    fill(142,121,216);
-    button = rect (587,616,120,50);
+    
+    //RECTANGLE "start" BUTTON
+    rectMode(CORNER);
+    noStroke();
+    if(isOverRectangle == true) {
+      fill(176,187,217);
+       cursor(HAND);
+    } else {
+      fill(142,121,216);
+       cursor(ARROW); 
+  }
+    buttonish = rect (587,616,120,50);
+    
     
     //MAINPAGE TEXTS
     fill(255);
@@ -74,15 +98,15 @@ function draw() {
     input.hide();
     
     //TESTING
-    pg.clear();
-    
-    
-  }
+    button.hide();
+}
   
+  
+   //LANDING PAGE
    if (mode==1) {
     
     //MAINPAGE HIDE
-    button = clear();
+    buttonish = clear();
     
     maintext1 = clear();
     maintext2 = clear();
@@ -94,35 +118,33 @@ function draw() {
     //LANDING PAGE UPLOADER SHOW
     input.show();
     
+    button.show();
+    
     background(255);
     
     //LANDING PAGE [HEADER TEXT]
     fill(26,24,89);
     textSize(21);
     textFont('Courier New');
-    Title = text('Upload your image here...',90,100);
-    textSize(16);
-    textFont('Courier New');
-    text('tap to start/stop', 100, 910);
+    Title = text('Upload your image here...Then press "PLAY" :)',90,100);
     
    
      //testing
-     pg.background(pgbdround);
-     cnv =image(pg,100,800, 100,100);
+     //pg.background(pgbground);
+     //cnv =image(pg,100,800, 100,100);
     
-    //IMAGE PIXELATION
+    //IMAGE PIXELATION+PIXEL SOUND
     if (img) {
     image(img,0,0,img.width,img.height);
         for (var x = 0; x < img.width; x+=pixSize){
-   for (var y = 0; y < img.height; y+=pixSize){
+    for (var y = 0; y < img.height; y+=pixSize){
      pix = get(x,y);
-     console.log('pix: '+pix);
+     console.log('pix:'+pix);
      bright = brightness(pix);
-    console.log('bright: ' + bright);
+    console.log ('bright:'+bright);
     fill(pix);
-     strokeWeight(1);
+    strokeWeight(1);
     stroke(pix);
-    //ellipse(i,j,int(leaps*(bright)/255),int(leaps*(bright)/255));
     rect(x+1,y+1,pixSize-1,pixSize-1);
     notePattern=[];
     notePattern.push(int(pix));
@@ -148,14 +170,13 @@ function handleFile(file) {
 
 
 function mousePressed() {
-  if (mode = 1){
-    pgPressed();}
-  else if (mouseIsPressed==true) {
-    mode = 1;
+    if (isOverRectangle == true) {
+        mode = 1;
   }
 }
 
-function pgPressed(){
+//SOUND PLAYER BUTTON
+function togglePlaying(){
   // ensure audio is enabled
   userStartAudio();
   
@@ -171,5 +192,5 @@ function onSoundLoop(timeFromNow) {
   let noteIndex = (soundLoop.iterations - 1) % notePattern.length;
   let note = midiToFreq(notePattern[noteIndex]);
   synth.play(note, 0.5, timeFromNow);
-  
+  background(noteIndex * 360 / notePattern.length, 50, 100);
 }
