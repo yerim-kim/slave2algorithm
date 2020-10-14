@@ -135,10 +135,15 @@ function draw() {
     
     //IMAGE PIXELATION+PIXEL SOUND
     if (img) {
+          notePattern=[];
     image(img,0,0,img.width,img.height);
         for (var x = 0; x < img.width; x+=pixSize){
     for (var y = 0; y < img.height; y+=pixSize){
-     pix = get(int(x+pixSize/2),int(y+pixSize/2));
+
+     pix = get(x,y);
+
+     //pix = get(int(x+pixSize/2),int(y+pixSize/2));
+
      //console.log('pix:'+pix);
      bright = brightness(pix);
     //console.log ('bright:'+bright);
@@ -146,8 +151,13 @@ function draw() {
     strokeWeight(1);
     stroke(pix);
     rect(x+1,y+1,pixSize-1,pixSize-1);
-    notePattern=[];
-    notePattern.push(pix);
+
+
+    notePattern.push(int(pix));
+
+  //notePattern=[];
+    //notePattern.push(pix);
+
     }
    }
   }
@@ -178,6 +188,7 @@ function mousePressed() {
 
 //SOUND PLAYER BUTTON
 function togglePlaying(){
+  console.log(notePattern);
   // ensure audio is enabled
   userStartAudio();  
    if (soundLoop.isPlaying) {
