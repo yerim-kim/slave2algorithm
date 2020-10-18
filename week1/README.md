@@ -1,4 +1,4 @@
-# Week 1: 
+# WEEK1
 
 ## Introduction to 'Slave to the Algorithm' studio
 
