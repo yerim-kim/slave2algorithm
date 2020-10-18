@@ -6,3 +6,4 @@ We were divided into groups to experience and experiment how generative design w
 ![Screen Shot 2020-07-24 at 1 53 26 pm](https://user-images.githubusercontent.com/68723268/96386273-4fdd0580-11e5-11eb-9b62-f6a752f6b637.jpg)
 ##
 ## MY DRAWING OUTCOME
+![Capture](https://user-images.githubusercontent.com/68723268/96386386-5455ee00-11e6-11eb-90b1-39dc6b4abbe8.jpeg)
