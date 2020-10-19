@@ -9,6 +9,8 @@ In today's class we were introduced to code basic shapes on Processing. Line, ci
 
 <img width="508" alt="Screen Shot 2020-07-31 at 1 02 07 pm" src="https://user-images.githubusercontent.com/68723268/96401802-1c6b9c80-1220-11eb-8f99-5429cf3b3205.png">
 
+[Code for the above portraiture](https://github.com/yerim-kim/slave2algorithm/blob/master/week2/Self-Portrait%20Sketch)
+
 
 ## Research
 Other than expanding my research into Glitch I was also gravitate towards algorithmic artists such as Samuel Monnier and Roman Verostko who were mentioned during the class. During the research I was once again think about the term and meaning of 'Algorithm'. An algorithm may be viewed simply as a detailed recipe for carrying out a task. The term has its origin in mathematics as the step by step procedure for solving a problem. The  commonplace procedures we use for multiplying and dividing numbers are algorithms. With precise details for each step the procedures yield the same result whether executed by a computer or by a human. This is why robots are able to handle many tasks that were once done only by humans.
