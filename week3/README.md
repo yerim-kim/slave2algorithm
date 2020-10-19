@@ -23,3 +23,9 @@ Finally, I went bold and put the pastels inside the moving washing machine. Past
 
 ![20200807_123204](https://user-images.githubusercontent.com/68723268/96413211-1208cd00-1237-11eb-869f-6878b492927a.jpg)
 ![20200807_115259](https://user-images.githubusercontent.com/68723268/96413201-0f0ddc80-1237-11eb-9613-bb812d0899a8.jpg)
+
+### Final Attempt
+
+Materials: A3 paper, pastels, strings and a trolly bag
+
+![20200807_124939_1](https://user-images.githubusercontent.com/68723268/96413422-585e2c00-1237-11eb-8199-cc87235fae34.gif)
