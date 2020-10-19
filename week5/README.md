@@ -66,4 +66,6 @@ trained, the network can recreate up to
 -You could add Stelarc's "Ping Body" to your research as many scholars have written about this work
 
 ## Reflection
-After the presentation and looking at other student's presentations I strongly felt that I wasn't certain about my current project. 
+After the presentation and looking at other student's presentations I strongly felt that I wasn't certain about my current project. I find the game data quite confusing even for myself. (But it is still a very unique data if I know how it works more properly) But I felt the limitation of information since it's not very known data and even after watching explanation of what each frequency mean I wasn't sure how I would bring that into data set where I can convert it into an Art piece/ design piece that I can alterate. Maybe I am overwhelmed by the unfamiliar world of Generative Data Art even after researching case studies.
+
+I was inspired by Luka's presentation of using jazz music. My original concept was also making music (This information can be found on [WEEK4](https://github.com/yerim-kim/slave2algorithm/tree/master/week4)) Maybe I could think of something relate to music again away from chaos theme.
