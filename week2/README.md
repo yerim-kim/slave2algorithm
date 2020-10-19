@@ -17,5 +17,7 @@ Other than expanding my research into Glitch I was also gravitate towards algori
 
 My thoughts were conflicted and challenged because this is away from traditional method of drawing. Even though humands wrote the algorithm so machine can learn it and create beautiful and unique output its not something that the artist drew. This thought process remind me of contemporary artist Jeff Koons who have factory of employed artist to draw his idea for him. Is this art considered as his?
 
-Back to algorithm art. I find algorithm art unconventional because humans take years or even all their life to learn skills to master but by inputting algorithm and rules into the AI it's quick to learn and even quickly apply into a new outcome. Less labor required and even creating unseen art pieces. Drawing new stroke to the contemporary art. 
+Back to algorithm art. I find algorithm art unconventional because humans take years or even all their life to learn skills to master but by inputting algorithm and rules into the AI it's quick to learn and even quickly apply into a new outcome. Less labor required and even creating unseen art pieces. Drawing new stroke to the contemporary art.
+
+
 ![Capture](https://user-images.githubusercontent.com/68723268/90146203-1db5be80-ddc4-11ea-86b6-319f5f9d3e9a.JPG)
