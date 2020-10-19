@@ -12,8 +12,6 @@ Materials: Started Washing Machine, pastels, strings, scissors and a piece of pa
 
 I hang pastels onto the vibrating washing machine using strings. Also taped the paper on the side of the washing machine. I imagined pastels will start to move and drawing on the A3 paper depending on the vibration intensity. But the washing machine vibrancy was not strong enough to make pastels move. My first attempt totally failed. I tried to reposition pastels still utilising the washing machine.
 
-##
-
 
 #### Attempt 2 & 3
 
@@ -23,15 +21,13 @@ More trials and errors. I decide to move the pastels and hang from above of the 
 
 Finally, I went bold and put the pastels inside the moving washing machine. Pastels and folded A3 paper inside the zip-lock bag going round and round in the washin machine. Result being successful, but not as abstract and expressive outcome I was looking for.
 
-##
-
 
 
 ![20200807_123204](https://user-images.githubusercontent.com/68723268/96413211-1208cd00-1237-11eb-869f-6878b492927a.jpg)
 ![20200807_115259](https://user-images.githubusercontent.com/68723268/96413201-0f0ddc80-1237-11eb-9613-bb812d0899a8.jpg)
 
 
-### Final Attempt
+#### Final Attempt
 
 Materials: A3 paper, pastels, strings and a trolly bag
 
@@ -39,9 +35,9 @@ Materials: A3 paper, pastels, strings and a trolly bag
 
 On my final attempt I used trolly but I was driving the force so it's not completely non-human drawing.
 
-## Notable Artist
+## Notable Artists
 [Karina Smigla-Bobinski: ADA](https://www.smigla-bobinski.com/english/works/ADA/index.html)
-I'm a designer who enjoys incorporating audience into my work I was interested in her interactive art-making machine ADA.
+[Leonel Moura: ISU](http://www.leonelmoura.com/isu-2/)
 
 
 
