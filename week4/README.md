@@ -17,6 +17,7 @@ Also depending on the location of the mouse X,Y we made the sketch that make ima
 I also found codes used to make below outcomes useful. Rotate was the most noticeble one that I thought I can use it for my future project because it's really cool effect and rotating animation trigger disturbance effect that I like. Karen also taught us how to make things fade so the background doesn't become crowded.
 
 https://github.com/yerim-kim/slave2algorithm/blob/master/week4/sketch_200814a/sketch_200814a.pde
+
 https://github.com/yerim-kim/slave2algorithm/blob/master/week4/sketch_200814b/sketch_200814b.pde
 
 
