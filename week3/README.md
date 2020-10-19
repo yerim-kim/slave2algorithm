@@ -36,8 +36,8 @@ Materials: A3 paper, pastels, strings and a trolly bag
 On my final attempt I used trolly but I was driving the force so it's not completely non-human drawing.
 
 ## Notable Artists
-/[Karina Smigla-Bobinski: ADA](https://www.smigla-bobinski.com/english/works/ADA/index.html)
-/[Leonel Moura: ISU](http://www.leonelmoura.com/isu-2/)
+##### [Karina Smigla-Bobinski: ADA](https://www.smigla-bobinski.com/english/works/ADA/index.html)
+##### [Leonel Moura: ISU](http://www.leonelmoura.com/isu-2/)
 
 
 
