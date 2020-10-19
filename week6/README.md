@@ -14,6 +14,8 @@ Andy also shared his opinions in ping. He suggested me about the installation ar
 Andy taught us about communicating our ideas to industry that we shouldn't just write about how our project is going to be but it is better to communicate our idea through a (paper) protyping, a something tangible to present how my project potentially looks like and work.
 So, in this exercise we were asked to make 2D paper prototype of our choosen retro games to show how it work. I think it's really good way to understand how our project going to work in real life and understanding the possible problems. Or even less presure to start the project this way than going into the code first thing.
 
+-Brick Breaker Game-
+
 ![20200828_123517](https://user-images.githubusercontent.com/68723268/96445546-cd435d00-125b-11eb-89ff-d25491cea73e.gif)
 
 ### Data Sonification Research
