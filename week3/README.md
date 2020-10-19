@@ -16,16 +16,12 @@ I hang pastels onto the vibrating washing machine using strings. Also taped the 
 #### Attempt 2 & 3
 
 ![20200807_111930](https://user-images.githubusercontent.com/68723268/96412311-b2f68880-1235-11eb-8246-147ff4cb0af4.jpg) ![20200807_112102](https://user-images.githubusercontent.com/68723268/96412383-d1f51a80-1235-11eb-8ce4-8bb5f96f0f94.jpg) 
-![20200807_115259](https://user-images.githubusercontent.com/68723268/96421619-b3e1e700-1242-11eb-9f9b-fe9982b965a9.jpg)
+![20200807_115259](https://user-images.githubusercontent.com/68723268/96421619-b3e1e700-1242-11eb-9f9b-fe9982b965a9.jpg) ![20200807_123204](https://user-images.githubusercontent.com/68723268/96413211-1208cd00-1237-11eb-869f-6878b492927a.jpg)
 
 
 More trials and errors. I decide to move the pastels and hang from above of the washing machine and A3 paper taped on top of the washing machine but pastels still did not budge at all due to the weak vibrancy. Then I gave up the string and let pastels feel the vibrancy directly by just placing them right onto the taped A3 paper on top of the washing machine. When the third attempt failed I realised how stable the washing machine is compare to the sound it makes..haha.
 
 Finally, I went bold and put the pastels inside the moving washing machine. Pastels and folded A3 paper inside the zip-lock bag going round and round in the washin machine. Result being successful, but not as abstract and expressive outcome I was looking for.
-
-
-
-![20200807_123204](https://user-images.githubusercontent.com/68723268/96413211-1208cd00-1237-11eb-869f-6878b492927a.jpg)
 
 
 
