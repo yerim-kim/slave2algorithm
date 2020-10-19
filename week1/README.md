@@ -17,4 +17,4 @@ After discussing with Karen about glitch and system breaking design I was introd
 ## https://vimeo.com/8125415
 The eerie vibe and discomfort the video creates is very inspiring and make me believe its beautiful yet something so far to accept. As a designer I find her works a good example of 'subjective' multimedia art piece where failures/broken find its new name.
 
-[WEEK2](https://github.com/yerim-kim/slave2algorithm/tree/master/week2)
+# [>WEEK2>](https://github.com/yerim-kim/slave2algorithm/tree/master/week2)
