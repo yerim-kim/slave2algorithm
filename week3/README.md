@@ -8,5 +8,6 @@ Today we focused away from the computer and explored ways of deferring agency to
 
 Materials: Started Washing Machine, pastels, strings, scissors and a piece of paper
 
-![20200807_111257 copy](https://user-images.githubusercontent.com/68723268/96408605-93f4f800-122f-11eb-8fd0-26fede8adc33.jpg)
+![20200807_111257 copy](https://user-images.githubusercontent.com/68723268/96408819-006ff700-1230-11eb-881a-90295f933bfc.jpg)
 
+I hang the pastel onto the vibrating washin machine using the string. Also taped the paper 
