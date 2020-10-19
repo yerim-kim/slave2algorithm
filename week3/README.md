@@ -46,4 +46,4 @@ On my final attempt I used trolly but I was driving the force so it's not comple
 
 My research started from glitch --> An algorithm art --> generated chaotic designs inspired by [Che Yu Wu's Circular System.](https://www.openprocessing.org/sketch/916659) I'm still drawn to generative art that is random, chaotic, insane and colourful work. Che Yu Wu's work was reflecting something close to what I think my future project will be where I can find 'ordered chaos' or 'systemic chaos'.
 
-A Korean contemporary artist Nam June Paik's television-based art what caught my eyes when I was researching 'ordered chaos'
+A Korean American contemporary artist Nam June Paik's television-based art caught my eyes when I was researching 'ordered chaos'. Especially his 'Continental U.S' made up of neon light and flashing retro televisions forming U.S map created vibrant yet ordered atmosphere for viewers. 
