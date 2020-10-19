@@ -44,6 +44,9 @@ On my final attempt I used trolly but I was driving the force so it's not comple
 I'm a designer who enjoys incorporating audience into my work I was interested in her interactive art-making machine ADA.
 
 
+
+
+
 ## Research & Hunting and Gathering
 
 <img width="640" alt="Screen Shot 2020-10-19 at 6 28 37 pm" src="https://user-images.githubusercontent.com/68723268/96414550-fef6fc80-1238-11eb-9bf1-a7376f247b55.png">
