@@ -50,4 +50,6 @@ A Korean American contemporary artist Nam June Paik's television-based art caugh
 
 <img width="604" alt="Screen Shot 2020-10-19 at 7 00 27 pm" src="https://user-images.githubusercontent.com/68723268/96417725-657e1980-123d-11eb-9756-3ab5cbdb370b.png">
 
+https://www.artrabbit.com/events/nam-june-paik-music-is-not-sound
+
 From researches so far I started to narrow down what kind of a project pitch I want to undertake. 'A randomly generated chaos' is the theme I'm looking at. 
