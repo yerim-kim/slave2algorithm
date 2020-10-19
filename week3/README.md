@@ -39,9 +39,9 @@ Materials: A3 paper, pastels, strings and a trolly bag
 
 On my final attempt I used trolly but I was driving the force so it's not completely non-human drawing.
 
-# Notable Artist
+## Notable Artist
 [Karina Smigla-Bobinski: ADA](https://www.smigla-bobinski.com/english/works/ADA/index.html)
-As a designer who enjoys incorporating audience into my work I was interested in her interactive art-making machine ADA.
+I'm a designer who enjoys incorporating audience into my work I was interested in her interactive art-making machine ADA.
 
 
 ## Research & Hunting and Gathering
