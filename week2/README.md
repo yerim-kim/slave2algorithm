@@ -1,5 +1,7 @@
 # WEEK2
-## Instructional Design and Processing tutorial
+## Instructional Design and Processing
+
+### Pop-up Activity : 12-hour challenge
 
 In today's class 
 
