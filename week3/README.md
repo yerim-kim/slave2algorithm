@@ -12,6 +12,8 @@ Materials: Started Washing Machine, pastels, strings, scissors and a piece of pa
 
 I hang pastels onto the vibrating washing machine using strings. Also taped the paper on the side of the washing machine. I imagined pastels will start to move and drawing on the A3 paper depending on the vibration intensity. But the washing machine vibrancy was not strong enough to make pastels move. My first attempt totally failed. I tried to reposition pastels still utilising the washing machine.
 
+##
+
 
 #### Attempt 2 & 3
 
@@ -21,11 +23,23 @@ More trials and errors. I decide to move the pastels and hang from above of the 
 
 Finally, I went bold and put the pastels inside the moving washing machine. Pastels and folded A3 paper inside the zip-lock bag going round and round in the washin machine. Result being successful, but not as abstract and expressive outcome I was looking for.
 
+##
+
+
+
 ![20200807_123204](https://user-images.githubusercontent.com/68723268/96413211-1208cd00-1237-11eb-869f-6878b492927a.jpg)
 ![20200807_115259](https://user-images.githubusercontent.com/68723268/96413201-0f0ddc80-1237-11eb-9613-bb812d0899a8.jpg)
+
 
 ### Final Attempt
 
 Materials: A3 paper, pastels, strings and a trolly bag
 
 ![20200807_124939_1](https://user-images.githubusercontent.com/68723268/96413422-585e2c00-1237-11eb-8199-cc87235fae34.gif)
+
+On my final attempt I used trolly but I was driving the force so it's not completely non-human drawing.
+
+
+## Research & Hunting and Gathering
+
+<img width="640" alt="Screen Shot 2020-10-19 at 6 28 37 pm" src="https://user-images.githubusercontent.com/68723268/96414550-fef6fc80-1238-11eb-9bf1-a7376f247b55.png">
