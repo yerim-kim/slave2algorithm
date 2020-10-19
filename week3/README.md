@@ -10,4 +10,4 @@ Materials: Started Washing Machine, pastels, strings, scissors and a piece of pa
 
 ![20200807_111257 copy](https://user-images.githubusercontent.com/68723268/96408882-1f6e8900-1230-11eb-9caa-702c4bc04f73.jpg)
 
-I hang the pastel onto the vibrating washin machine using the string. Also taped the paper 
+I hang the pastel onto the vibrating washin machine using the string. Also taped the paper on the side of the washing machine. I imagined pastels will start to move depending the volume
