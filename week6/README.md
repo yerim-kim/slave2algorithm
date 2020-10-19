@@ -11,7 +11,16 @@ Andy also shared his opinions in ping. He suggested me about the installation ar
 
 ### Retro Game Paper Prototyping - Andy
 
-Andy taught us about communicating our ideas to industry that we shouldn't just write about how our project is going to be but it is better to communicate our idea through a (paper) protyping, a something tangible to present how my project potentially looks like and work. This way it's trustworthy and help convince client while having a stronger rapport.  
-So, in this exercise we were asked to make 2D paper prototype of our choosen retro games to show how it work. I think it's really good way to understand how our project going to work and good way to get our project plans more solid.
+Andy taught us about communicating our ideas to industry that we shouldn't just write about how our project is going to be but it is better to communicate our idea through a (paper) protyping, a something tangible to present how my project potentially looks like and work.
+So, in this exercise we were asked to make 2D paper prototype of our choosen retro games to show how it work. I think it's really good way to understand how our project going to work in real life and understanding the possible problems. Or even less presure to start the project this way than going into the code first thing.
 
 ![20200828_123517](https://user-images.githubusercontent.com/68723268/96445546-cd435d00-125b-11eb-89ff-d25491cea73e.gif)
+
+### Data Sonification Research
+
+After the Karen's lecture I started researching deeply into data sonification. In the process I found a few inspiring practitioners who successed in converting a complex data into music.
+
+1. [Data Sonata by julien levesque](http://www.julienlevesque.net/Data_Sonata/index-en.html)
+
+
+2. [Quotidian Record (2012) Brian House](https://brianhouse.net/works/quotidian_record/)
