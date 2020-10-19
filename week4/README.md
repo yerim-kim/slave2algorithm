@@ -26,6 +26,8 @@ I also found codes used to make below outcomes useful. Rotate was the most notic
 
 My project concept: Generated Chaos
 
+Concept Explanation: Interactive, random, genrated and chaos are words that triggered the concept idea. We touch and swipe our phone 24/7, using that actions I wanted to create randomly generated music as the screen is divided into sections each square producing different sound. At the end of the day app? will show the result of our finger and phone interaction data into a chaotic music sheet.
+
 Concept sketch:
 
 ![20200814_155829](https://user-images.githubusercontent.com/68723268/96429217-6cf8ef00-124c-11eb-93c6-681e7341a21d.jpg)
