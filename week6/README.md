@@ -28,3 +28,5 @@ After the Karen's lecture I started researching deeply into data sonification. I
 2. [Quotidian Record (2012) Brian House](https://brianhouse.net/works/quotidian_record/)
 
 ### Uploading Sound in p5.js
+
+![image](https://user-images.githubusercontent.com/68723268/96550736-f405a000-12fc-11eb-953f-c4e6b68b0e0e.png)
