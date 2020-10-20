@@ -54,3 +54,5 @@ A Korean American contemporary artist Nam June Paik's television-based art caugh
 https://www.artrabbit.com/events/nam-june-paik-music-is-not-sound
 
 From researches so far I started to narrow down what kind of a project pitch I want to undertake. 'A randomly generated chaos' is the theme I'm looking at. 
+
+# [>WEEK4>](https://github.com/yerim-kim/slave2algorithm/tree/master/week4)
