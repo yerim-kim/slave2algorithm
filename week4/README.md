@@ -1,6 +1,6 @@
 # WEEK4
 
-## Processing Intense/ Refining Project Pitch
+## Processing Intense Class/ Refining Project Pitch
 
 In today's class we were fully committed to developing our Processing skills. Karen taught us how to import an image into our sketch folder and play with the image, also including fonts and creating short a rotating animation with texts.
 
