@@ -20,7 +20,7 @@ So, in this exercise we were asked to make 2D paper prototype of our choosen ret
 
 ### Data Sonification Research
 
-After the Karen's lecture I started researching deeply into data sonification. In the process I found a few inspiring practitioners who successed in converting a complex data into music.
+After the Karen's lecture I started researching deeply into data sonification. In the process I found a few inspiring artists who successed in converting a complex data into music.
 
 1. [Data Sonata by julien levesque](http://www.julienlevesque.net/Data_Sonata/index-en.html)
 
