@@ -82,3 +82,5 @@ Logically thinking there will be millions of pixels reside in an one single good
 
 
 And extract numbers that best suits the available music notes (whtether between 0-88 and 0-144). Still figuring out which method I need to use...
+
+# [>WEEK9>](https://github.com/yerim-kim/slave2algorithm/tree/master/MILESTONE%20(week9))
