@@ -26,3 +26,8 @@ Images are made up of numbers once they are transferred digitally then I can use
 ![wiggle](https://user-images.githubusercontent.com/68723268/96751855-708da100-1419-11eb-965e-6224176e0e3b.JPG)
 
 We continued our journey into p5.js coding where this time we played around with a more complex function'constructor' to make wiggly and random fonts on the screen when we click our mouse keys. Between the randomly spawned letters we can see some of boxes unidentified letters. I utilised Avenir my favourit san serif font of all time.
+
+Further learning on interactive functions such as mousePressed, keyTyped and keyPressed was fun and still bit confusing to take all in one go but I will practice and experiment with them so I can flexibly use it on my final project.
+
+
+# [>WEEK8>](https://github.com/yerim-kim/slave2algorithm/tree/master/week8}
