@@ -24,6 +24,6 @@ Soon I realised I was going no where with these separate codes I had to email Ka
 
 ##
 
-Combined the music and web code after taking advice from Karen.
-
 ![USING PG TESTING](https://user-images.githubusercontent.com/68723268/96784979-e275e280-1439-11eb-984d-afad4670aa9e.JPG)
+
+####Combined the music and web code after taking advice from Karen.
