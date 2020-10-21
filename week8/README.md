@@ -72,7 +72,9 @@ Used Code from the website by Marcelo Pascual (Below)
 
 ![ss](https://user-images.githubusercontent.com/68723268/94150888-0dadf600-febd-11ea-8815-01fd95189c34.JPG)
 
-So I decide to talk to Karen when I couldn't figure this out on my own. I got a reply that there is a easier method to extract numbers from images in Processing. I was like what was I doing the whole time hahaha.
+This was start of my code trial and error process but this was not the exact outcome I was looking into. Pure arrat of numbers are what I need to convert them into music, inspired by Musicalgorithms website.
+
+So I decide to email to Karen when I couldn't figure this out on my own. I got a reply that there is a easier method to extract numbers from images in Processing. I was like what was I doing the whole time hahaha.
 
 ## Theoritically thinking of the process of converting an image to numbers
 
