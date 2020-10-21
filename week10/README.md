@@ -25,13 +25,14 @@ I mainly explored things that make up the website such as button and transition 
 
 // Put an uploading button for users to upload their image onto the website > 'createFileInput()' inside function set up
 
-### Things I'm still need to figure out
+### Things I still need to figure out
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+* How to pixelate user uploaded images on p5.js
+* Extract brightness pixel value from the pixelate image
+* Play sound from the converted numbers
 
-### More Inspiration
+### More Inspiration I found
+
+
 
 
