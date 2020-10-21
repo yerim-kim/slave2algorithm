@@ -24,6 +24,20 @@ It is a project responding the current social problem, Corona, where it is sprea
 I also want users to realise how much positive efforts we put into our lives before to be where we are now.
 This project is addressed to me personally and others who are having similar mental struggle like me during the Covid 19.
 
+#### My project pseudo code
+
+FUNCTION  play music
+
+INPUT Image
+
+IF small file,
+short loop of music
+
+ELSE IF big file,
+Seem like a endless music
+
+END IF no file to analyse
+
 ### Starting project
 
 Like any reality I faced the wall as soon as I started to research how to convert an image to numbers. When I searched 'How to convert an image to number' on Google only came up with things that I won't understand.
