@@ -39,8 +39,9 @@ Using the already made data sonification website I had a successful outcome of m
 
 I created a mood board and a concept board for my website if I get to make one. I wanted to utilise blue analogue colours and pastel tones to make my website appeal calming, tranquil and therapuetic mood of healing through music. This is experimental so I think it will definitely change during the coding process.
 
-### My next step 
+ 
 ##
+### My next step
 ![image](https://user-images.githubusercontent.com/68723268/94732653-e4540500-03a9-11eb-9812-4867975f0ad6.png)
 
 
