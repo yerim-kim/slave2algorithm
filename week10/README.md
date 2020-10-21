@@ -1,10 +1,8 @@
 ## WEEK10
 
-### Pixelating image with Processing
-#### Further experimenting from week 9
-
-![image](https://user-images.githubusercontent.com/68723268/94792724-bbb92300-041c-11eb-9904-403b0776fc40.png)
-
+### Pixelating image with Processing - Further experimenting from week 9
+After milestone I found more ways to pixelate my images. This code was made by [Jeff Thompson]{https://github.com/yerim-kim/slave2algorithm/blob/master/week10/pixelating.pde}
+["After an afternoon of working on a Processing project with Alex Myers, I created a Processing sketch that pixelates and posterizes an image.  Next step (and definitely the hardest) will be to find the weighted center of the pixel areas (not each pixel block but areas of the same color).  The above image is Van Gogh’s “Starry Night”.] (https://www.jeffreythompson.org/blog/2012/02/18/pixelate-and-posterize-in-processing/)
 ![PixelatedAndPosterized_donut](https://user-images.githubusercontent.com/68723268/94733483-2cbff280-03ab-11eb-89bb-736ef36bc95c.jpg)
 ##
 
