@@ -4,7 +4,7 @@
 
 ### Paper Prototype 2
 
-My plan changed a little bit more from the last paper protype. I thought I was limting myself into a frame called 'a music box music sheet'. So, I changed my project direction to a website where users can upload their images then using algorithm to convert that images into a music box music only and ordering an actual physical music box as a side option.
+My plan changed a little bit more from the last paper protype. I thought I was limting myself into a frame called 'a music box music sheet'. So, I changed my project direction to a website where users can upload their images then using applied algorithm to convert that images into a music box music only and ordering an actual physical music box as a side option.
 
 
 ![20200924_214049](https://user-images.githubusercontent.com/68723268/94145600-24048380-feb6-11ea-9862-d4866fa12864.gif)
