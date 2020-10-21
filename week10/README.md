@@ -14,6 +14,11 @@ From last week I got really started on exploring and learning code in p5.js, so 
 I mainly explored things that make up the website such as button and transition to a landing page from main page. When I was building these codes I referred to the Youtube tutorial ["p5.js How to display text menu before game starts"](https://www.youtube.com/watch?v=TgHhEzKlLb4) by Magic Monk.
 ##
 
-![120199178_3530264473698953_6701772042869443196_n](https://user-images.githubusercontent.com/68723268/94842526-d7451d80-045e-11eb-830e-9891b0ca240a.png)
+![mouswe pressed](https://user-images.githubusercontent.com/68723268/96772113-60cc8780-142e-11eb-8d4a-86bfb03ca065.JPG)
+// Inserting Remember U Logo using 'Preload' function
+
+// Smoothly moving from main page to landing page using 'mousepressed' function but going to review again so it works when I press the rectangle 'START' button I made
 ##
-I'm not sure I will use the Start button like that or just use mouse clicking function. I will try both and work out which one is better
+
+![fixfged](https://user-images.githubusercontent.com/68723268/96772347-bb65e380-142e-11eb-924f-9d37e752bb1c.JPG)
+//
