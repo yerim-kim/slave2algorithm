@@ -49,3 +49,5 @@ new p5.Amplitude(): calculating volume from p5.js sound library
 Most useful one my future project was where we can control the music play,stop and loop.
 Additional to that we can make a condition by saying if and else to the code.
 (https://github.com/yerim-kim/slave2algorithm/blob/master/week6/sound.js)
+
+# [>WEEK7>](https://github.com/yerim-kim/slave2algorithm/tree/master/week7)
