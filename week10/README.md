@@ -31,8 +31,15 @@ I mainly explored things that make up the website such as button and transition 
 * Extract brightness pixel value from the pixelate image
 * Play sound from the converted numbers
 
-### More Inspiration I found
+##
 
+### More Inspiration I found
+[Impression, Sunrise (Monet) - Sonification](https://www.youtube.com/watch?v=3vxewNEzh98) by Harry Morley on Youtube
+
+Harry converted an image to an unique sound by simplifying the original image pixel values into an array of larger pixels. He gave each possible image values such as the hue, saturation and brightness a task to control note values.
+"base note, which is controlled by the hue value, and the secondary note which is determined by the brightness value. The brightness value is also inversely mapped to the delay time until the next note is triggered. Saturation determines the velocity of the note."
+
+![xx](https://user-images.githubusercontent.com/68723268/96775034-a428f500-1432-11eb-9b3f-261ee0dde347.JPG)
 
 
 
