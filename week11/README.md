@@ -57,9 +57,10 @@ Karen then helped me with the code that play sound from the imported image's pix
 
 ### Making the Web Responsive to Any Screen Sizes
 
-I had difficult time with this. It wasn't too hard but my rectangle button didn't agree with me when I changed from 'CORNER' to 'CENTER'. I figured out that mouse parameter rule was made to fit the Rectangle when the center axis was on the corner.
+![Capxxxture](https://user-images.githubusercontent.com/68723268/96791286-e444a380-1443-11eb-917d-35ec43ccbb18.JPG)
+![Captusdfsddfdfdgdfgfsdfre](https://user-images.githubusercontent.com/68723268/96791282-e27ae000-1443-11eb-997a-93211c56e52c.JPG)
+![Captuzzzzzre](https://user-images.githubusercontent.com/68723268/96791285-e3ac0d00-1443-11eb-83d7-73d581357a6a.JPG)
 
-![Captasasaure](https://user-images.githubusercontent.com/68723268/96790705-f4a84e80-1442-11eb-8eec-62619b25adf7.JPG)
 
 
 
