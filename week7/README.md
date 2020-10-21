@@ -25,4 +25,4 @@ Images are made up of numbers once they are transferred digitally then I can use
 ### p5.js learning this week
 ![wiggle](https://user-images.githubusercontent.com/68723268/96751855-708da100-1419-11eb-965e-6224176e0e3b.JPG)
 
-We continued our journey into p5.js coding where this time we played around with a more complex function'constructor' to make wiggly and random fonts on the screen when we click our mouse keys.
+We continued our journey into p5.js coding where this time we played around with a more complex function'constructor' to make wiggly and random fonts on the screen when we click our mouse keys. Between the randomly spawned letters we can see some of boxes unidentified letters. I utilised Avenir my favourit san serif font of all time.
