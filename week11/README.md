@@ -13,4 +13,4 @@ I still need to work out the positioning of the rectangles.
 
 After Friday class I was still struggling to extract pixel brightness values out from the image and convert them into sound. I thought in order to move on from a no progress situation to at least trying something else. I try to code a section by section, dividing the code into different p5.js files. So as a result I ended up with 4 different a mixture of p5.js file and java files.
 
-![musssssice](https://user-images.githubusercontent.com/68723268/96778471-7abe9800-1437-11eb-89aa-6da7ba10cb38.JPG)
+![musssssice](https://user-images.githubusercontent.com/68723268/96778471-7abe9800-1437-11eb-89aa-6da7ba10cb38.JPG) ![Capturess](https://user-images.githubusercontent.com/68723268/96778872-fcaec100-1437-11eb-9e8b-d1e0377de088.JPG)
