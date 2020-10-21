@@ -30,4 +30,4 @@ We continued our journey into p5.js coding where this time we played around with
 Further learning on interactive functions such as mousePressed, keyTyped and keyPressed was fun and still bit confusing to take all in one go but I will practice and experiment with them so I can flexibly use it on my final project.
 
 
-# [>WEEK8>](https://github.com/yerim-kim/slave2algorithm/tree/master/week8}
+# [>WEEK8>](https://github.com/yerim-kim/slave2algorithm/tree/master/week8)
