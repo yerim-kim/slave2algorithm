@@ -8,7 +8,7 @@ I didn't get to say everything in the presentation but here I will write the det
 ![image](https://user-images.githubusercontent.com/68723268/94731108-96d69880-03a7-11eb-9d5d-5c4bb1fbcb58.png)
 
 ##
-So After realising that I need to pixelate the image in order to get the right amount of pixel numbers for conversion. I utilised code from this website (https://byrodrigo.wordpress.com/2010/09/24/pixelate-with-processing/) to control the pixelation. Then I saw there are numbers appeal in Console that represent each brigtness pixels in the donut picutre.
+So After realising that I need to pixelate the image in order to get the right amount of pixel numbers for conversion. I utilised code made by [Rodrigo Treviño Sáenz ](https://byrodrigo.wordpress.com/2010/09/24/pixelate-with-processing/) in order to apply mozaic filter on images. Then I noticed numbers have appealed in Console which represent each brigtness pixels in the donut picutre.
 ##
 ![image](https://user-images.githubusercontent.com/68723268/94731936-e8335780-03a8-11eb-88aa-27b059011e83.png)
 ##
