@@ -3,5 +3,4 @@
 ###
 ###
 ###
-![CaptZZXZure](https://user-images.githubusercontent.com/68723268/96799017-e27fdd80-144d-11eb-924d-5589b91ea2d2.JPG)![AAA1](https://user-images.githubusercontent.com/68723268/96799019-e3b10a80-144d-11eb-8f10-8d7005a04274.JPG)
-
+![CaptZZXZure](https://user-images.githubusercontent.com/68723268/96799086-1529d600-144e-11eb-891e-fd32f514c472.JPG)![AAA1](https://user-images.githubusercontent.com/68723268/96799093-15c26c80-144e-11eb-8550-a516b1af218f.JPG)
