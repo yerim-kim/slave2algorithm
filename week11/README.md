@@ -30,7 +30,7 @@ Soon I realised I was going no where with these separate codes I had to email Ka
 
 * during this process I experimented with 'createGraphic' Function. Because after combining the code I notice the music will play whenever I click the canvas so I thought I could solve this by adding an extra canvas
 
+Karen then helped me with the code that play sound from the imported image's pixel brightness value.
+
 ![Capture](https://user-images.githubusercontent.com/68723268/96786696-603aed80-143c-11eb-9af5-5494b1e0eabb.JPG)
 
-
-Karen further helped me with the code that play music from the imported image file.
