@@ -41,7 +41,8 @@ I created a mood board and a concept board for my website if I get to make one. 
 
 ![image](https://user-images.githubusercontent.com/68723268/94732653-e4540500-03a9-11eb-9812-4867975f0ad6.png)
 ##
-My next step is to make this process of image to music a lot smoother using p5.js.
+
+My next step is to make this process of image to music move to web code design using p5.js.
 
 
 # [>WEEK10>](https://github.com/yerim-kim/slave2algorithm/tree/master/week10)
