@@ -10,7 +10,6 @@ So I decide to change my project direction completely to 'images covert into mus
 Fact that images are made up of numbers when they are transferred into a digital form then using that number data to create a music sheet for a music box.
 
 ## Created a paper prototype after the quick presentation & feedback from Karen
-![small file version](https://user-images.githubusercontent.com/68723268/94141330-eac91500-feaf-11ea-9c73-6c7010c54ba7.JPG)
-![20200924_214012](https://user-images.githubusercontent.com/68723268/94141696-7e9ae100-feb0-11ea-84c4-ee24b8741098.gif)
+![small file version](https://user-images.githubusercontent.com/68723268/96743967-41266680-1410-11eb-9f09-4b28bcfb5c9b.JPG) ![20200924_214012](https://user-images.githubusercontent.com/68723268/94141696-7e9ae100-feb0-11ea-84c4-ee24b8741098.gif)
 
 
