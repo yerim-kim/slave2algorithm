@@ -11,11 +11,24 @@ My plan changed a little bit more from the last paper protype. I thought I was l
 
 ##
 
+### Remember U (Slave to the Algorithm Final Project)
+
+Remember U
+
+Image Sonification on User Interactive Web
+
+Project deliverables: website and music box sound from an image
+
+Backstory:
+It is a project responding the current social problem, Corona, where it is spreading and infecting us physically but also our minds. I have strong belief that music has power of healing and therapuetic to anxiety and depression. Also I believe by using our good memories from before pandemic we can regain our self-esteem, our positive energy decreased significantly due to extended restrction and 'the state of disaster'.
+I also want users to realise how much positive efforts we put into our lives before to be where we are now.
+This project is addressed to me personally and others who are having similar mental struggle like me during the Covid 19.
+
 ### Starting project
 
 Like any reality I faced the wall as soon as I started to research how to convert an image to numbers. When I searched 'How to convert an image to number' on Google only came up with things that I won't understand.
 
-I also researched how to turn numbers to music. I got an idea from this website.
+I also researched how to turn numbers to music. I got an idea from these websites.
 
 https://www.learnchordal.com/turning-numbers-into-music
 
@@ -41,16 +54,17 @@ Used Code from the website by Marcelo Pascual (Below)
 
 ![ss](https://user-images.githubusercontent.com/68723268/94150888-0dadf600-febd-11ea-8815-01fd95189c34.JPG)
 
-So I decide to talk to Karen when I couldn't figure this out on my own. But I got a reply that there is a easier way to extract numbers from image in Processing. I was like what was I doing the whole time hahaha.
+So I decide to talk to Karen when I couldn't figure this out on my own. I got a reply that there is a easier method to extract numbers from images in Processing. I was like what was I doing the whole time hahaha.
 
 ## Theoritically thinking of the process of converting an image to numbers
 
-Because there is only 88 notes on the piano but there can be also 144 on music box.
-And we need to think that each pixel contain RGB 0 - 255 and there is a lot of pixel in an one image.
-So we need to pixelate and degrade the image quality in order to get the right amount of numbers we want from the image.
+I had a lot of decision makings to do. Like how many notes I want for the music box to play. My favourite options were 0 to 88 (piano notes) and 0 to 144 (musicbox notes)
+I also need to consider that each pixel contains RGB of 0 - 255 and there is a lot of pixels in an one image.
+More options to choose whether get get values of image hue, image brightness, image contrast ande much more to options to think about.
+Logically thinking there will be millions of pixels reside in an one single good quality image so I need to pixelate into mosaic form (simple hues) and degrade the image quality in order to get the right amount of numbers that I require.
 
 
 ![Captuzzze](https://user-images.githubusercontent.com/68723268/94152072-83ff2800-febe-11ea-8bb7-5fcd3db4b06e.JPG)
 
 
-And extract variable that best suit to music notes. Still figuring out which method I need to use...
+And extract numbers that best suits the available music notes (whtether between 0-88 and 0-144). Still figuring out which method I need to use...
