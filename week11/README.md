@@ -16,6 +16,9 @@ After Friday class I was still struggling to extract pixel brightness values out
 FILE(1)![musssssice](https://user-images.githubusercontent.com/68723268/96778471-7abe9800-1437-11eb-89aa-6da7ba10cb38.JPG) File(2)![Capturess](https://user-images.githubusercontent.com/68723268/96778872-fcaec100-1437-11eb-9e8b-d1e0377de088.JPG)
 
 * File (1): [Playing sound from numbers code](https://github.com/yerim-kim/slave2algorithm/blob/master/week11/sketch(music))
-* File (2): [Pixel brightness value extracted](https://github.com/yerim-kim/slave2algorithm/blob/master/week11/Pixel%20Brightness%20value)
+* File (2): [Pixel brightness (rgb) value extracted](https://github.com/yerim-kim/slave2algorithm/blob/master/week11/Pixel%20Brightness%20value)
 * File (3): [Website](https://github.com/yerim-kim/slave2algorithm/blob/master/week11/sketch(website))
 * File (4): [Image pixelation code](https://github.com/yerim-kim/slave2algorithm/blob/master/week11/sketch(pixelating%20image))
+
+Soon I realised I was going no where with these separate codes I had to email Karen for help to realign myself.
+
