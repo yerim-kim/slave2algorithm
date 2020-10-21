@@ -2,11 +2,11 @@
 
 ## Quick presentation/Paper prototyping/Pseudo Code
 
-### Research
+
 
 ![D2q_z7CXgAAcS_8](https://user-images.githubusercontent.com/68723268/96746976-7bddce00-1413-11eb-9260-5b8e41d471c2.jpg)
 
-
+### Research
 
 ### Paper Prototype
 
