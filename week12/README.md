@@ -1,3 +1,5 @@
 # WEEK12
 
-## [Remember U](https://yerim-kim.github.io/slave2algorithm/)
+## Final Page
+
+[Remember U](https://yerim-kim.github.io/slave2algorithm/)
