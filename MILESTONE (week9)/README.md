@@ -3,11 +3,11 @@
 This week we had a milestone short presentation of our projects. We got to see where everyone else is up to and got a feedback on what direction we need to go with our project.
 I didn't get to say everything in the presentation but here I will write the details of how I'm going with my project, 'Remember U'.
 
-## 
+
 
 ![image](https://user-images.githubusercontent.com/68723268/94731108-96d69880-03a7-11eb-9d5d-5c4bb1fbcb58.png)
 
-##
+
 So After realising that I need to pixelate the image in order to get the right amount of pixel numbers for conversion. I utilised code made by [Rodrigo Treviño Sáenz ](https://byrodrigo.wordpress.com/2010/09/24/pixelate-with-processing/) in order to apply mozaic filter on images. Then I noticed numbers have appealed in Console which represent each brigtness pixels in the donut picutre.
 ##
 ![image](https://user-images.githubusercontent.com/68723268/94731936-e8335780-03a8-11eb-88aa-27b059011e83.png)
@@ -19,7 +19,7 @@ I copied all the necessary numbers into Notepad app and manually tidy them up so
 
 ##
 Then utilising ['Musical Algorithms' website](http://musicalgorithms.org/4.1/app/) I applied optional parametics allowed in the website to convert those numbers to 88 notes in a piano and furthermore convert them into a music genre to my taste.
-##
+
 
 ![1](https://user-images.githubusercontent.com/68723268/94732100-24ff4e80-03a9-11eb-9330-10e3263d0e5a.JPG)
 
@@ -28,18 +28,20 @@ Then utilising ['Musical Algorithms' website](http://musicalgorithms.org/4.1/app
 ![3](https://user-images.githubusercontent.com/68723268/94732177-42341d00-03a9-11eb-8b8b-73e333e4ab74.JPG)
 
 ![4](https://user-images.githubusercontent.com/68723268/94732197-4a8c5800-03a9-11eb-9ad1-015bbc34e17f.JPG)
-##
+
 #### Outcome Reflection
-Using the already made data sonification website I had a successful outcome of making piano sounds out of an image. Through this precious music outcome I was able to reconsider my final deliverable need to be. Like how above website create user experience and creating a moment through their step by step converting numbers to music I also want to employ that rapport with my potential users. I want them to have a experience and moment of their time where they conver their own image by themselves. I want to have that interactive moment as a designer publishing a website with meaning. I changed a small part of my projects such as I dropped music box part and selling music box at all because after hearing my unique music created from number I realised that having a sound is the important aspect of this project.
 ##
+Using the already made data sonification website I had a successful outcome of making piano sounds out of an image. Through this precious music outcome I was able to reconsider my final deliverable need to be. Like how above website create user experience and creating a moment through their step by step converting numbers to music I also want to employ that rapport with my potential users. I want them to have a experience and moment of their time where they conver their own image by themselves. I want to have that interactive moment as a designer publishing a website with meaning. I changed a small part of my projects such as I dropped music box part and selling music box at all because after hearing my unique music created from number I realised that having a sound is the important aspect of this project.
+
 
 #### Web design concept
+##
 ![image](https://user-images.githubusercontent.com/68723268/94731270-d9987080-03a7-11eb-859a-b4c3a57eeca6.png)
 
-##
 I created a mood board and a concept board for my website if I get to make one. I wanted to utilise blue analogue colours and pastel tones to make my website appeal calming, tranquil and therapuetic mood of healing through music. This is experimental so I think it will definitely change during the coding process.
-##
+
 ### My next step 
+##
 ![image](https://user-images.githubusercontent.com/68723268/94732653-e4540500-03a9-11eb-9812-4867975f0ad6.png)
 
 
