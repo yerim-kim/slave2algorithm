@@ -46,14 +46,18 @@ I also researched how to turn numbers to music. I got an idea from these website
 
 https://www.learnchordal.com/turning-numbers-into-music
 
+Chordal website about how to compose music from note numbers (music theory based)
+
 http://musicalgorithms.org/4.1/app/#/home
+
+Proper website that uses an unqiue algorithmic code to convert numbers into piano music.
 
 #### Test /  Image to Number (PHP)
 
 https://stackoverflow.com/questions/16994797/convert-image-in-to-numbers
 
 
-It came up with numbers when I applied an image but it also had indications which array and which colours it was. Also another problem was I can only convert very small files.
+It came up with numbers when I applied an image but it also had indications which array and which colours it was. Also another problem was I can only convert a tiny image.
 
 Used image (Below)
 
