@@ -1,6 +1,6 @@
 # MILESTONE (WEEK9)
 
-This week we had a milestone short presentation of our projects. We got to see where everyone is up to and got a feedback where we need to go with our project.
+This week we had a milestone short presentation of our projects. We got to see where everyone else is up to and got a feedback what direction we need to go with our project.
 I didn't get to say everything in the presentation but here I will write the details of how I'm going with my project, 'Remember U'.
 
 ## Project Continue
