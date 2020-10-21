@@ -49,7 +49,17 @@ Karen then helped me with the code that play sound from the imported image's pix
 ![Capturzxzxzxzxzxzxe](https://user-images.githubusercontent.com/68723268/96789932-b6f6f600-1441-11eb-8259-651b10b60a48.JPG)
 
 * Small problem: Weird Pixel arrangements
- * Solved: I don't how but it started working fine again when I was playing with rounding and notePattern
+  * Solved: I don't how but it started working fine again when I was playing with rounding and notePattern
  
 ![Captsssure](https://user-images.githubusercontent.com/68723268/96790286-43a1b400-1442-11eb-9fd3-ca6b1f122ece.JPG)
+
+##
+
+### Making the Web Responsive to Any Screen Sizes
+
+I had difficult time with this. It wasn't too hard but my rectangle button didn't agree with me when I changed from 'CORNER' to 'CENTER'. I figured out that mouse parameter rule was made to fit the Rectangle when the center axis was on the corner.
+
+![Captasasaure](https://user-images.githubusercontent.com/68723268/96790705-f4a84e80-1442-11eb-8eec-62619b25adf7.JPG)
+
+
 
