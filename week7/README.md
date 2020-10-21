@@ -22,3 +22,7 @@ Images are made up of numbers once they are transferred digitally then I can use
 ![small file version](https://user-images.githubusercontent.com/68723268/96743967-41266680-1410-11eb-9f09-4b28bcfb5c9b.JPG) 
 ![20200924_214012](https://user-images.githubusercontent.com/68723268/96744566-ea6d5c80-1410-11eb-88e9-dfe00642c268.gif)
 
+### p5.js learning this week
+![wiggle](https://user-images.githubusercontent.com/68723268/96751855-708da100-1419-11eb-965e-6224176e0e3b.JPG)
+
+We continued our journey into p5.js coding where this time we played around with a more complex function'constructor' to make wiggly and random fonts on the screen when we click our mouse keys.
