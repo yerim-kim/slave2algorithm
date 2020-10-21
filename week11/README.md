@@ -26,11 +26,24 @@ Soon I realised I was going no where with these separate codes I had to email Ka
 
 ![USING PG TESTING](https://user-images.githubusercontent.com/68723268/96784979-e275e280-1439-11eb-984d-afad4670aa9e.JPG)
 
-#### Combined the music and web code after taking advice from Karen.
+#### Combined the music and web code after taking a feedback from Karen.
 
 * during this process I experimented with 'createGraphic' Function. Because after combining the code I notice the music will play whenever I click the canvas so I thought I could solve this by adding an extra canvas
 
 Karen then helped me with the code that play sound from the imported image's pixel brightness value.
 
 ![Capture](https://user-images.githubusercontent.com/68723268/96786696-603aed80-143c-11eb-9af5-5494b1e0eabb.JPG)
+
+### More Trial and Error
+
+* The code only playing one note continuously.
+
+![Capturssdsdsdsde](https://user-images.githubusercontent.com/68723268/96788853-dee55a00-143f-11eb-8b16-d40063438f81.JPG)
+
+* Error: Brightness value was in a decimal format when I checked the consol.log(brightness) that was why it was only playing one note of sound.
+  * Solved: So I decide to experiment a bit with rounding, used 'round' first then changed to 'ceil' wso it gives a higher whole number from any decimal numbers.
+* Small problem: I noticed now it was giving me muscial array of numbers between 1 to 100 and it was too high pitched for people to hear.
+  * Solve: Times 0.88 to bright when rounding with ceil.
+  
+![Capturzxzxzxzxzxzxe](https://user-images.githubusercontent.com/68723268/96789932-b6f6f600-1441-11eb-8259-651b10b60a48.JPG)
 
