@@ -59,7 +59,9 @@ Karen then helped me with the code that play sound from the imported image's pix
 
 ![Capxxxture](https://user-images.githubusercontent.com/68723268/96791286-e444a380-1443-11eb-917d-35ec43ccbb18.JPG)
 ![Captusdfsddfdfdgdfgfsdfre](https://user-images.githubusercontent.com/68723268/96791282-e27ae000-1443-11eb-997a-93211c56e52c.JPG)
-![Captuzzzzzre](https://user-images.githubusercontent.com/68723268/96791285-e3ac0d00-1443-11eb-83d7-73d581357a6a.JPG)
+![Captuzzzdsfdsdszaaaaaazre](https://user-images.githubusercontent.com/68723268/96795554-33420700-144b-11eb-8e3b-58caf1e957f6.JPG)
+
+# [>WEEK12>](https://github.com/yerim-kim/slave2algorithm/tree/master/week12)
 
 
 
