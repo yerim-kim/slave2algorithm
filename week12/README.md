@@ -1,6 +1,6 @@
 # WEEK12
 
-#  _REFLECTION_
+#  REFLECTION
 
 [Remember U](https://yerim-kim.github.io/slave2algorithm/)
 
