@@ -8,8 +8,9 @@
 
 ![Untitled-3](https://user-images.githubusercontent.com/68723268/96799294-8c5f6a00-144e-11eb-9102-4347e9cec546.gif)
 
+<img width="1436" alt="HeroImage" src="https://user-images.githubusercontent.com/68723268/96799365-b57ffa80-144e-11eb-96a1-19f6552e063b.png">
 ## REFLECTION
 
 
 
-<img width="1436" alt="HeroImage" src="https://user-images.githubusercontent.com/68723268/96799365-b57ffa80-144e-11eb-96a1-19f6552e063b.png">
+
