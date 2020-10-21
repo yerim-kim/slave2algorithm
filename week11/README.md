@@ -41,9 +41,15 @@ Karen then helped me with the code that play sound from the imported image's pix
 ![Capturssdsdsdsde](https://user-images.githubusercontent.com/68723268/96788853-dee55a00-143f-11eb-8b16-d40063438f81.JPG)
 
 * Error: Brightness value was in a decimal format when I checked the consol.log(brightness) that was why it was only playing one note of sound.
-  * Solved: So I decide to experiment a bit with rounding, used 'round' first then changed to 'ceil' wso it gives a higher whole number from any decimal numbers.
-* Small problem: I noticed now it was giving me muscial array of numbers between 1 to 100 and it was too high pitched for people to hear.
-  * Solve: Times 0.88 to bright when rounding with ceil.
+  * Solved: So I decide to experiment a bit with rounding, used 'round' first then changed to 'ceil' so it gives a higher whole number from any decimal numbers.
+  
+* Small problem: I noticed now it was giving me muscial array of numbers between 0 to 100 and it was too high pitched for people to hear.
+  * Solve: Times 0.88 to bright when rounding with ceil. Now it only show me with 0 to 88 numbers. Better for everyone's ear.
   
 ![Capturzxzxzxzxzxzxe](https://user-images.githubusercontent.com/68723268/96789932-b6f6f600-1441-11eb-8259-651b10b60a48.JPG)
+
+* Small problem: Weird Pixel arrangements
+ * Solved: I don't how but it started working fine again when I was playing with rounding and notePattern
+ 
+![Captsssure](https://user-images.githubusercontent.com/68723268/96790286-43a1b400-1442-11eb-9fd3-ca6b1f122ece.JPG)
 
