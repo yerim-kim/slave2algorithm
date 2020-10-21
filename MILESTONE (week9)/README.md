@@ -42,7 +42,7 @@ I created a mood board and a concept board for my website if I get to make one. 
  
 ##
 ### My next step
-![image](https://user-images.githubusercontent.com/68723268/94732653-e4540500-03a9-11eb-9812-4867975f0ad6.png)
+![94732653-e4540500-03a9-11eb-9812-4867975f0ad6](https://user-images.githubusercontent.com/68723268/96767303-134d1c00-1428-11eb-885b-5d7aa9b653ba.png)
 
 
 To make all the above process of [image > pixelation > number > music] move to working web using p5.js.
