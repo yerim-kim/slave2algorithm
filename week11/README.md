@@ -20,5 +20,9 @@ FILE(1)![musssssice](https://user-images.githubusercontent.com/68723268/96778471
 * File (3): [Website](https://github.com/yerim-kim/slave2algorithm/blob/master/week11/sketch(website))
 * File (4): [Image pixelation code](https://github.com/yerim-kim/slave2algorithm/blob/master/week11/sketch(pixelating%20image))
 
-Soon I realised I was going no where with these separate codes I had to email Karen for help to realign myself.
+Soon I realised I was going no where with these separate codes I had to email Karen for help to realign myself. I think I did not understand the concept of 'Uploaded File', not preloaded. My understanding of converting things were stuck in 'Preloaded' image and music. I couldn't figure it out how to convert things from 'createFileInput' and input being 'image'.
 
+##
+
+After taking advice from Karen to combine music and web code.
+![USING PG TESTING](https://user-images.githubusercontent.com/68723268/96784979-e275e280-1439-11eb-984d-afad4670aa9e.JPG)
