@@ -15,6 +15,7 @@ I mainly explored things that make up the website such as button and transition 
 ##
 
 ![mouswe pressed](https://user-images.githubusercontent.com/68723268/96772113-60cc8780-142e-11eb-8d4a-86bfb03ca065.JPG)
+
 // Inserting Remember U Logo using 'Preload' function
 
 // Smoothly moving from main page to landing page using 'mousepressed' function but going to review again so it works when I press the rectangle 'START' button I made
