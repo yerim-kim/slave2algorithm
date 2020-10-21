@@ -22,7 +22,8 @@ I mainly explored things that make up the website such as button and transition 
 ##
 
 ![fixfged](https://user-images.githubusercontent.com/68723268/96772347-bb65e380-142e-11eb-924f-9d37e752bb1c.JPG)
-![web](https://user-images.githubusercontent.com/68723268/96775936-fdddef00-1433-11eb-8b18-4c1a47bd6720.JPG)
+
+![weffb](https://user-images.githubusercontent.com/68723268/96776044-2ebe2400-1434-11eb-80a6-a1a056f75630.JPG)
 
 // Put an uploading button for users to upload their image onto the website > 'createFileInput()' inside function set up
 
