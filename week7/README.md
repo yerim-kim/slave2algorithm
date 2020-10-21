@@ -5,8 +5,11 @@
 
 
 ![D2q_z7CXgAAcS_8](https://user-images.githubusercontent.com/68723268/96746976-7bddce00-1413-11eb-9260-5b8e41d471c2.jpg)
+[photo reference](https://twitter.com/moritz_stefaner/status/1110912065538019329/photo/1)
 
 ### Research
+
+A most stunning data sonification work done by Katja Striedelmeyer for "Beyond Heatmaps — Data visualization for a warming planet". "Listen: Apple Blossom is Shifting" project presents a sonification of the shifting beginning of the apple blossom in Germany. This dataset was sonified using a mechanical music box, with ascending pitch indicating the increasingly earlier blossoming. The sound of the mechanical music box is indescribale, beautiful and delicate. This was the type of project I was searching for and I am truly inspired by the inifinite possibility to represent the data. It is definitely more than a music but a music with story, knowledge and background. I love the details of how it is all been handmade and well made music box music sheet going on a loop.
 
 ### Paper Prototype
 
