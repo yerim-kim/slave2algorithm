@@ -17,7 +17,7 @@ Below you will find the contents sorted week by week (1 -12 weeks) and my final 
 \
 \
 \
-week1: [Introduction to 'Slave to the Algorithm' studio] (https://github.com/yerim-kim/slave2algorithm/tree/master/week1)
+week1: [Introduction to 'Slave to the Algorithm' studio](https://github.com/yerim-kim/slave2algorithm/tree/master/week1)
 \
 week2: [Instructional Art and First Step in Processing](https://github.com/yerim-kim/slave2algorithm/tree/master/week2)
 \
