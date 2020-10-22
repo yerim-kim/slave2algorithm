@@ -24,7 +24,7 @@ Learn to code...
 
 The pivotal part of this studio was about the utilisation of the newly learnt skills in the project. Recording of weekly entries in Github also illustrates that it is about the process. Often in the design field that many attentions are drawn more to the outcome than the effort and thinking processes. Even though I said “my priority is on the process and the learning involved during the project” in the pitch PDF, I also found myself walking the path of favouring the result. And only to realise now, week 13, that it was about the journey of ‘trial and error’ and exploring generative design. Learning about parametric design was an eye-opening moment for me. I have never composed music before, and now I can produce a unique sound not only for myself but also for others. I have come to realise the infinite possibilities of generative design that can affect various career fields.
 
-### A last minute small alteration to the main page
+If I was given more time and resources with the project I will refine and solve the web design to make interaction during the user experience become easier and more memorable for the audience. Remember U became such a special project for me, especially in the current situation of ‘a state of disaster’. Exhaustion is a natural reaction to any extended and continuous hardship. Remember U have potential to grow even more as a therapeutic web, by employing data visualisation design evolved from the sound converted from the image.
 
 
 
