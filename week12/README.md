@@ -15,7 +15,7 @@ Coding? Generative Designs? Algorithms?
 
 It was full of questions and uncertainty at the start of the studio, but I would have never imagined myself creating a digital music that intended to explore the therapeutic effect using sound. Even with limited class time and having zero knowledge behind the coding, I was still able to experience and appreciate the Front-End development, UX/UI design, the design practices that I wanted to pursue but never got a chance to engage with until now. Learn to code and undertaking the project with a timeline in the studio was indeed overwhelming and stressful in some degree. But it was a meaningful process and experience to expand my horizon as a multidisciplinary designer.
 
-CODING: the process or activity of writing computer programs.
+#### CODING: the process or activity of writing computer programs.
 
 Learn to code...
 * in Open processing
