@@ -6,8 +6,7 @@ It is a repository with a working record of my activities, research, inspiration
 \
 \
 Below you will find the contents sorted week by week (1 -12 weeks) and my final project.
-\
-\
+
 
 
 #### Link to my final project: [Remember U](https://yerim-kim.github.io/slave2algorithm/)
