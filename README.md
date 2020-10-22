@@ -9,7 +9,7 @@ Below you will find the contents sorted week by week (1 -12 weeks) and my final 
 
 
 
-#### Final project: [Remember U](https://yerim-kim.github.io/slave2algorithm/) & [Code Folder](https://github.com/yerim-kim/slave2algorithm/tree/master/Remember_U)
+#### Final project: [Remember U](https://yerim-kim.github.io/slave2algorithm/) & Project Code: [Link](https://github.com/yerim-kim/slave2algorithm/tree/master/Remember_U)
 \
 \
 \
